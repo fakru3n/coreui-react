@@ -8,5 +8,8 @@ module.exports = {
         react: 'React'
       }
     }
+  },
+  devServer: {
+    port: process.env.PORT || '4020'
   }
 }
