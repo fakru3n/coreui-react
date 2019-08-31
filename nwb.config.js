@@ -13,3 +13,4 @@ module.exports = {
     port: process.env.PORT || '4020'
   }
 }
+console.log('process', process)
