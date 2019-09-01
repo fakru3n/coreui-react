@@ -10,7 +10,7 @@ module.exports = {
     }
   },
   devServer: {
-    port: process.env.PORT || '4020'
+    port: process.env.PORT || process.env.npm_config_user || '4020'
   }
 }
 console.log('process', process.env)
