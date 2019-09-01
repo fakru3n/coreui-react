@@ -44,7 +44,6 @@
     "reactstrap": "^8.0.1"
   },
   "peerDependencies": {
-    "@coreui/coreui": "^2.1.12",
     "react": "^16.8.6",
     "react-router-dom": "^5.0.1"
   },
