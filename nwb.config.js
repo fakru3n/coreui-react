@@ -8,9 +8,5 @@ module.exports = {
         react: 'React'
       }
     }
-  },
-  devServer: {
-    port: process.env.PORT || process.env.npm_config_user || '4020'
   }
 }
-console.log('process', process.env)
